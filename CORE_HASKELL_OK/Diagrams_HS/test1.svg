@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" height="600.0" stroke-opacity="1" viewBox="0 0 800 600" font-size="1" width="800.0" xmlns:xlink="http://www.w3.org/1999/xlink" stroke="rgb(0,0,0)" version="1.1">
+  <defs>
+  </defs>
+  <defs>
+  </defs>
+  <g stroke-linejoin="miter" stroke-opacity="1.0" fill-opacity="0.0" stroke="rgb(0,0,0)" stroke-width="2.7678493634968473" fill="rgb(0,0,0)" stroke-linecap="butt" stroke-miterlimit="10.0">
+    <path d="M 400.00000000000006,101.98019801980197 l 297.02970297029697,396.039603960396 "/>
+  </g>
+  <defs>
+  </defs>
+  <g stroke-linejoin="miter" stroke-opacity="1.0" fill-opacity="0.0" stroke="rgb(0,0,0)" stroke-width="2.7678493634968473" fill="rgb(0,0,0)" stroke-linecap="butt" stroke-miterlimit="10.0">
+    <path d="M 400.00000000000006,101.98019801980197 l -297.02970297029697,396.039603960396 "/>
+  </g>
+  <defs>
+  </defs>
+  <g stroke-linejoin="miter" stroke-opacity="1.0" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2.7678493634968473" fill="rgb(255,255,255)" stroke-linecap="butt" stroke-miterlimit="10.0">
+    <path d="M 799.0099009900989,599.9999999999999 l -2.264415277948339e-14,-203.96039603960395 h -203.96039603960395 l -2.264415277948339e-14,203.96039603960395 Z"/>
+  </g>
+  <defs>
+  </defs>
+  <g stroke-linejoin="miter" stroke-opacity="1.0" fill-opacity="1.0" font-size="93.06930693069306px" stroke="rgb(0,0,0)" stroke-width="2.7678493634968473" fill="rgb(0,0,0)" stroke-linecap="butt" font-family="monospace" stroke-miterlimit="10.0">
+    <text dominant-baseline="middle" transform="matrix(1.0,0.0,0.0,1.0,697.029702970297,498.01980198019794)" stroke="none" text-anchor="middle">C
+    </text>
+  </g>
+  <defs>
+  </defs>
+  <g stroke-linejoin="miter" stroke-opacity="1.0" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2.7678493634968473" fill="rgb(255,255,255)" stroke-linecap="butt" stroke-miterlimit="10.0">
+    <path d="M 204.9504950495051,599.9999999999999 l -2.264415277948339e-14,-203.96039603960395 h -203.96039603960395 l -2.264415277948339e-14,203.96039603960395 Z"/>
+  </g>
+  <defs>
+  </defs>
+  <g stroke-linejoin="miter" stroke-opacity="1.0" fill-opacity="1.0" font-size="93.06930693069306px" stroke="rgb(0,0,0)" stroke-width="2.7678493634968473" fill="rgb(0,0,0)" stroke-linecap="butt" font-family="monospace" stroke-miterlimit="10.0">
+    <text dominant-baseline="middle" transform="matrix(1.0,0.0,0.0,1.0,102.97029702970309,498.01980198019794)" stroke="none" text-anchor="middle">B
+    </text>
+  </g>
+  <defs>
+  </defs>
+  <g stroke-linejoin="miter" stroke-opacity="1.0" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2.7678493634968473" fill="rgb(255,255,255)" stroke-linecap="butt" stroke-miterlimit="10.0">
+    <path d="M 501.98019801980206,203.96039603960395 l -2.264415277948339e-14,-203.96039603960395 h -203.96039603960395 l -2.264415277948339e-14,203.96039603960395 Z"/>
+  </g>
+  <defs>
+  </defs>
+  <g stroke-linejoin="miter" stroke-opacity="1.0" fill-opacity="1.0" font-size="93.06930693069306px" stroke="rgb(0,0,0)" stroke-width="2.7678493634968473" fill="rgb(0,0,0)" stroke-linecap="butt" font-family="monospace" stroke-miterlimit="10.0">
+    <text dominant-baseline="middle" transform="matrix(1.0,0.0,0.0,1.0,400.00000000000006,101.98019801980197)" stroke="none" text-anchor="middle">A
+    </text>
+  </g>
+</svg>
